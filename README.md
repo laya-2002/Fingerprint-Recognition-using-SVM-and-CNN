@@ -1,4 +1,4 @@
-# Fingerprint-Recognition-using-SVM-and-CNN
+# Fingerprint Recognition using SVM and CNN
 A web application developed using Flask framework at the backend. The application makes use of a model which was trained with datasets consisting of fingerprints in image format. VGG 19 model is used for CNN implementation.
 
 # Contributors
